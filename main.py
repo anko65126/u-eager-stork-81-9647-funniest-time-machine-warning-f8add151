@@ -2,7 +2,8 @@
 
 Writes one warning label for a time machine to /output/entry.txt.
 The line is at most 120 characters, deterministic, and needs no
-network access.
+network access. The joke lands on the classic rule: never meet
+your past self — he is trouble, and he talks.
 """
 from pathlib import Path
 
